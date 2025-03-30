@@ -367,7 +367,7 @@ More specific to ZK:
 
 - [Oasis Network](https://oasisprotocol.org/)
 - [Secret Network](https://scrt.network/)
-- [Obscuro](https://www.obscu.ro/)
+- [Obscuro](https://ten.xyz)
 - [Phala](https://www.phala.network/en/)
 
 ### Fully Homomorphic Encryption (FHE) Based Projects
